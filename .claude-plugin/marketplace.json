@@ -1,0 +1,17 @@
+{
+  "name": "agy-plugin",
+  "owner": {
+    "name": "d4rkwinz"
+  },
+  "metadata": {
+    "description": "Delegate work from Claude Code to Google's Antigravity CLI.",
+    "version": "0.2.0"
+  },
+  "plugins": [
+    {
+      "name": "agy",
+      "source": "./",
+      "description": "Delegate bulk work, code review, research, and media transcription to agy (Gemini)."
+    }
+  ]
+}
